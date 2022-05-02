@@ -37,3 +37,6 @@ function findName(){
 myvar = String(34);
 console.log(myvar,(typeof myvar));
 
+
+let date = new Date()
+
